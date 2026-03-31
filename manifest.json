@@ -1,0 +1,36 @@
+{
+  "name": "FuelIQ — Smart Fuel Tracker",
+  "short_name": "FuelIQ",
+  "description": "Track vehicle fuel consumption accurately using the DTE partial-fill method.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "lang": "en-IN",
+  "categories": ["utilities", "productivity"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Add Fill-up",
+      "short_name": "Add",
+      "description": "Log a new fuel fill-up",
+      "url": "/index.html#add",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
