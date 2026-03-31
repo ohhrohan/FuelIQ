@@ -1,3 +1,1 @@
-01:45FuelIQ — Smart Fuel Tracker PWA
-A mobile-first Progressive Web App for tracking vehicle fuel consumption, built with vanilla HTML, CSS, and JavaScript. Solves the partial fill calculation problem found in most fuel tracking apps by using a Distance to Empty (DTE) method to accurately estimate remaining fuel before each fill-up — giving you correct mileage figures even when you don't fill the tank completely.
-Key features: multi-vehicle support, smart tri-input calculator, auto-recalibrating efficiency baseline, CSV import/export, full offline support via Service Worker, and installs directly to your iPhone home screen from Safari — no App Store required.
+
